@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    extra_hostnames: "Allow these hostnames to be used next to the canonical hostname."

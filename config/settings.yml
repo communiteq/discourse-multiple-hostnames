@@ -1,0 +1,7 @@
+plugins:
+  extra_hostnames:
+    type: list
+    client: false
+    default: ""
+    allow_any: true
+
